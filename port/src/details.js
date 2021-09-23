@@ -5,7 +5,7 @@ export const data = {
   name: "PRITHIVI RAJAN",
   tag: "rEACT Web Developer",
   cv_link:
-    "https://drive.google.com/file/d/1BCCMUpeXeNBfxJaewpJepVJMeCfjbHYg/view?usp=sharing",
+    "https://drive.google.com/file/d/12cUAbpjTIhS2MmXc2corHw0YM5fyuw_l/view?usp=sharing",
   about:
     "Hello! I'm PRITHIVIRAJAN PT --",
   email: "prithivi5667@gmail.com",
@@ -31,6 +31,14 @@ export const data = {
       link: "http://www.karmegam.in",
       details:
         " Karmegam.in farmers producer company website  "
+    },
+    {
+      p_name: "React Markdown Viewer",
+      from: "Sep 2020",
+      to: "Sep 2020",
+      github: "https://github.com/prithivi5667/markdown",
+      link: "https://master.d2s8nbii0dblkc.amplifyapp.com/",
+      details:"react markdown is a react component that converts Markdown text into the corresponding HTML code.  "
     },
     {
       p_name: "Health care mobile app",
